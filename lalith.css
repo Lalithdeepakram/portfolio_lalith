@@ -59,6 +59,7 @@ nav a:hover {
     gap: 40px;
     padding: 80px 7%;
     height: 550px;
+    flex-wrap: wrap;
 }
 
 #home1 {
@@ -112,6 +113,7 @@ nav a:hover {
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-wrap: wrap;
 }
 
 #home2 img {
